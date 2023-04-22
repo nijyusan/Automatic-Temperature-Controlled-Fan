@@ -1,0 +1,3 @@
+When you want to use Fan.apk, you should not only open Bluetooth on your Android phone, but also open GPS.
+Fan_Android.e4a is the program of this app. But It can only be opened in a certain software called 易安卓.
+To make the code visible without using the software, I put all codes in Code for this app.docx
